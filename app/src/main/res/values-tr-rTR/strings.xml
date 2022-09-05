@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BusProje</string>
+    <string name="balance_query">Bakiye Sorgula</string>
+    <string name="buses">Otobüsler</string>
+    <string name="favorite">Favoriler</string>
+    <string name="stops">Duraklar</string>
+    <string name="record_it">Kaydet</string>
+    <string name="create_your_login">Giriş Ekranınızı Oluşturun</string>
+    <string name="enter_mail">Mail Girin</string>
+    <string name="back_to_login">Girişe Dön</string>
+    <string name="create_password">Parola Oluştur</string>
+    <string name="password">Parola</string>
+    <string name="login">Giriş</string>
+    <string name="good_day_have_a_nice_trip">Sağlıklı Günler,İyi Yolculuklar</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="language">Dil</string>
+    <string name="sett_ngs">Ayarlar</string>
+    <string name="change_password">Şifreyi Değiştir</string>
+    <string name="share_the_app">Uygulamayı Paylaş</string>
+    <string name="about_us">Hakkımızda</string>
+    <string name="log_out">Çıkış Yap</string>
+    <string name="home">Ana Menü</string>
+    <string name="lines">Hatlar</string>
+    <string name="card">Kart</string>
+    <string name="settings">Ayarlar</string>
+</resources>

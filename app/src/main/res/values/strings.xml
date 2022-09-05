@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BusProje</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_buses">BusesActivity</string>
+    <string name="balance_query">Balance Query</string>
+    <string name="buses">Buses</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="stops">Stops</string>
+    <string name="record_it">Record IT</string>
+    <string name="create_your_login">Create Your Login</string>
+    <string name="enter_mail">Enter Mail</string>
+    <string name="back_to_login">Back to LOGIN</string>
+    <string name="create_password">Create Password</string>
+    <string name="password">Password</string>
+    <string name="login">LogIn</string>
+    <string name="good_day_have_a_nice_trip">Good Day, Have a Nice Trip</string>
+    <string name="register">RegIster</string>
+    <string name="language">language</string>
+    <string name="sett_ngs">SETTİNGS</string>
+    <string name="change_password">change password</string>
+    <string name="share_the_app">share the app</string>
+    <string name="about_us">about us</string>
+    <string name="log_out">log out</string>
+    <string name="home">Home</string>
+    <string name="lines">Lines</string>
+    <string name="card">Card</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_lines_to_map">LinesToMap</string>
+</resources>

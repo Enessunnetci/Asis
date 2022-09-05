@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/lines"
+        android:icon="@drawable/ic_lines"
+        android:title="@string/lines"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/empty"
+        android:icon="@drawable/ic_time"
+        android:title="A"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/card"
+        android:icon="@drawable/ic_card"
+        android:title="@string/card"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/settings"
+        app:showAsAction="ifRoom" />
+
+
+</menu>

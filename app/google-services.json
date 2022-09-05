@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970939756409",
+    "project_id": "busproje-284c6",
+    "storage_bucket": "busproje-284c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970939756409:android:6d6dcfefde8e53f6dc89a8",
+        "android_client_info": {
+          "package_name": "com.enes.busproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970939756409-pbocbfp9eess5h7nru0al7o4lscrs0j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC6toX7UF79yBtHXKcpQ3chXps-KWT8Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970939756409-pbocbfp9eess5h7nru0al7o4lscrs0j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

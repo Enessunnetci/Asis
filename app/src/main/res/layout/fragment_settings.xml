@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingsFragment">
+
+
+    <Button
+        android:id="@+id/btnLogOut"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:onClick="btnLogOut"
+        android:text="@string/log_out"
+        app:layout_constraintTop_toBottomOf="@+id/btnChangePassword"
+        tools:layout_editor_absoluteX="-16dp" />
+
+    <Button
+        android:id="@+id/btnHakkimizda"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:onClick="aboutUs"
+        android:text="@string/about_us"
+        app:layout_constraintTop_toBottomOf="@+id/btnDilDegistir"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <Button
+        android:id="@+id/btnPaylas"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:onClick="btnPaylas"
+        android:text="@string/share_the_app"
+        app:layout_constraintTop_toBottomOf="@+id/btnHakkimizda"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <Button
+        android:id="@+id/btnChangePassword"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:onClick="btnChangePassword"
+        android:text="@string/change_password"
+        app:layout_constraintTop_toBottomOf="@+id/btnPaylas"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_marginTop="35dp"
+        android:textColor="@color/black"
+        android:background="@color/white"
+        android:text="@string/sett_ngs"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnDilDegistir"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:text="@string/language"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="75dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
